@@ -5,7 +5,7 @@ Application to learn to code Android with the MOOC Udacity of Google "Android Ba
 ## Introduction to this exercise
 
 The name of my community is Dynamic Club. Dynamic Club is a community comprises of Engineering students, majorly, mechanical engineering students who aim to contribute to the technological development of the University.
-The community was founded by department of Mechanical Engineering students of class 17. The community is made up of 60 students in which any student in the Faculty of Engineering can registered.
+The community was founded by department of Mechanical Engineering students of class '17. The community is made up of 60 students in which any student in the Faculty of Engineering can registered.
 
 The club is an official club approved by the Head of Department of Mechanical Engineering and some of the lectures are willing to be our patrons.
 
@@ -15,11 +15,11 @@ We have done some projects and represented the campus three times.
 
 I am one of the executives, in which I am both serving as the project manager and design instructor who lead the design team and I also teach them how to code in java, python sometimes.
 
-The community is full of brilliant people who hope to find solutions to the problems we face as undergradutes and later in life be the problem-solvers for the whole Africa. The community has few members and are planning that other faculties can join the community.
+The community is full of brilliant people who hope to find solutions to the problems we face as undergradutes and be the problem-solvers for the whole Africa later in life. The community has few members and is planning that other faculties can join the community.
 
 We schedule the meeting twice a week (Monday and Friday). On Monday, we discuss about the project on ground and those we have started but the duration of our meetings is not enough because we only have an hour to rub minds. Thirty minutes of the time is spent on suggestions, various activities we are committed to like going for competitions, the unfinished projects, budget planning, the other training(skills) and there is no time for the discussion of the project on ground.
 
-I just think that if our community can start using GitHub as an extra platform to discuss on projects we left untouched. I am playing to create a kind of hackathon events for some days to train them on GitHub. 
+- I just think that if our community can start using GitHub as an extra platform to discuss on projects we left untouched. I am planning to create a kind of hackathon events for some days to train them on GitHub.
 
 
 ## Introduce yourself
@@ -42,7 +42,7 @@ It is a formal recognized community. The club is an official club approved by th
 
 The community share interest from a wide range of fields in engineering (Mechanical, Electrical, Computer, Electronics Engineering, . We focus on robotics, assemblying of parts, Innovations, Inventions.
 
-The community was founded by department of Mechanical Engineering students of class 17 in the year 2015 when they went for are preparing for a nation engineering competition.
+The community was founded by department of Mechanical Engineering students of class '17 in the year 2015 when they went for are preparing for a nation engineering competition.
 
 The community was of 12 members in since 2015 until 2017 when the founders were in their final year and they had to keep the community going. They informed us about the group they formed when they were in their 3rd year. I joined when I begin my 2nd year and we are now over fifty in numbers. Before this year ends, the community should have 80 members. 
 
