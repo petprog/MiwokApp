@@ -2,10 +2,12 @@
 Application to learn to code Android with the MOOC Udacity of Google "Android Basics: Multiscreen Apps"
 ## Introduction to this exercise
 
-The name of the community is Dynamic Club. Dynamic Club is a community comprises of Engineering students majorly Mechanical Engineering students who aim to contribute to the technology development of the University.
+## Introduction to this exercise
+
+The name of the community is Dynamic Club. Dynamic Club is a community comprises of Engineering students majorly mechanical engineering students who aim to contribute to the technological development of the University.
 The community was founded by class 17 of Mechanical Engineering. The community is made up of 60 students in which any student in the Faculty of Engineering can registered.
 
-The club is an official club approved by the Head of Department of Mechanical Engineering and some of the lectures are willing to be one of our patrons.
+The club is an official club approved by the Head of Department of Mechanical Engineering and some of the lectures are willing to be our patrons.
 
 We hold trainings for different softwares like Solidworks, Matlab, Arduino, Java, Python, Autocad. 
 
@@ -13,20 +15,19 @@ We have done some projects and represented the campus three times.
 
 I am one of the executives, in which I am both serving as the project manager and design instructor who lead the design team and I also teach them how to code in java, python sometimes.
 
-The community is full of brilliant people who hope to find solutions to the problems we face as undergradutes and later in life be problem-solvers for the whole Africa. The community is still few in members. We are planning that other faculties can join the community.
+The community is full of brilliant people who hope to find solutions to the problems we face as undergradutes and later in life be the problem-solvers for the whole Africa. The community has few members and are planning that other faculties can join the community.
 
-We schedule the meeting twice a week(Monday and Friday). On Monday, we discuss about the project on ground and those we have started but the duration of our meetings is not enough because we only have an hour to rub minds. For like 30 minutes of the time is used to make suggestions on various activities we are committed to like going for competitions, the failed projects, buget planning, the other training(skills) and there is no time for the discussion of the project on ground.
+We schedule the meeting twice a week (Monday and Friday). On Monday, we discuss about the project on ground and those we have started but the duration of our meetings is not enough because we only have an hour to rub minds. Thirty minutes of the time is spent on suggestions, various activities we are committed to like going for competitions, the unfinished projects, budget planning, the other training(skills) and there is no time for the discussion of the project on ground.
 
-I just think that if our community can start using GitHub as an extra platform to discuss on projects we leave untouched. I am playing to create a kind of hackathon events for some days to train them on GitHub. 
+I just think that if our community can start using GitHub as an extra platform to discuss on projects we left untouched. I am playing to create a kind of hackathon events for some days to train them on GitHub. 
 
-For each header in this document, give as much detail as possible about your community. Leave the headers in, and write your content below them. This essay should form a starting point for the activities you'll do as a Campus Expert.
 
 ## Introduce yourself
 
 My name is Farinu Taiwo. I am a student of Ladoke Akintola University of Technology (LAUTECH), Nigeria where I am curently pursuing my first degree in Mechanical Engineering. 
-I love drawing 3D objects on paper when I'm in class. If I'm not busy with school work, I can code on Android Studio for like 7 hours learning and creating mobile apps, I love asking questions on tech from people. I am a tech enthusiast and love talking about technology to my mates. I'm a person that believe in apps than using manual approach to solve engineering problems. I love talking about politics.
+I love drawing 3D objects on paper when I'm in class. If I'm not busy with school work, I can code on Android Studio for like 7 hours learning and creating mobile apps. I am a tech enthusiast and I love talking about technology to my mates. I'm a person that believes using softwares to solve engineering problems than using manual approach. I love hearing and learning about politics.
 
-I have a dream of becoming a game developer since high school. I started learning Python in my first year, then I move to Java programming in my 2nd year. I am currently an android developer and Java expert. I have made some apps for myself, and I'm planning to make an app for my department and my school.
+I have a dream of becoming a game developer since high school. I started learning Python in my first year, then I move to Java programming in my second year. I am currently an android developer and Java expert. I have made some apps for myself, and I'm planning to make an app for my department and my school.
 
 I think some students are not aware of how these technologies are made and they are not interested in the future of Africa. I love Africans to be the builders of technology and not the so called "Users of the Technology"
 
