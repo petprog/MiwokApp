@@ -1,10 +1,10 @@
 # Miwok
 Application to learn to code Android with the MOOC Udacity of Google "Android Basics: Multiscreen Apps"
-## Introduction to this exercise
+
 
 ## Introduction to this exercise
 
-The name of the community is Dynamic Club. Dynamic Club is a community comprises of Engineering students majorly mechanical engineering students who aim to contribute to the technological development of the University.
+The name of my community is Dynamic Club. Dynamic Club is a community comprises of Engineering students majorly mechanical engineering students who aim to contribute to the technological development of the University.
 The community was founded by class 17 of Mechanical Engineering. The community is made up of 60 students in which any student in the Faculty of Engineering can registered.
 
 The club is an official club approved by the Head of Department of Mechanical Engineering and some of the lectures are willing to be our patrons.
